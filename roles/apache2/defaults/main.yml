@@ -1,0 +1,4 @@
+---
+# defaults file for apache2
+welcome_user: Van LQ
+apache_service: apache2 # default platform is Ubuntu/Debian
